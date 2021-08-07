@@ -41,10 +41,6 @@ function my_keydown(e) {
 	else {
 		otherkey(keyPressedKeyCap);
 	}
-
-	if(keyPressed == 20){
-		toggleCaps();
-	}
 }
 
 function alphabetKey(key) {
